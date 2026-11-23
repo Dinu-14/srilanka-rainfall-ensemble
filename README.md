@@ -54,8 +54,6 @@ python -m streamlit run app.py
 - `models/` — Trained models and saved results
 - `.streamlit/` — Dashboard configuration
 
-## Limitations
 
-The model evaluation is based on historical observations. Future predictions use forecasted weather inputs and have not been independently validated.
 
 
